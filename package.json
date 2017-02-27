@@ -1,0 +1,19 @@
+{
+  "name": "sankarnpmfirst",
+  "version": "1.0.0",
+  "description": "My First NPM Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sankaranarayanan097@github.com/sankaranarayanan097/sankarnpmfirst.git"
+  },
+  "author": "Sankara Narayanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankaranarayanan097/sankarnpmfirst/issues"
+  },
+  "homepage": "https://github.com/sankaranarayanan097/sankarnpmfirst#readme"
+}
